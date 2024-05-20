@@ -40,5 +40,7 @@ Bot for Telegram [Cubes? game](https://t.me/cubesonthewater_bot?start=OTk3MTQzND
 4. ```bash
      py app.py
    ```
+   ![image](https://github.com/Reykira007/cubes_bot/assets/70166715/546911cb-8677-4391-9954-8a4f04d70b1a)
+
 
 You can also use proxy if create file `proxies.txt` (HTTP(s) only).
