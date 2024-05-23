@@ -16,7 +16,7 @@ Bot for Telegram [Cubes? game](https://t.me/cubesonthewater_bot?start=OTk3MTQzND
 3. Create `init_data.txt` file and fill it with init data from game WebView (copy string from `window.Telegram.WebApp.initData` in DevTools console). You can enter multiple init data strings line by line for multithreading.
 
 ``Step init_data.txt``
-1. open desktop telegram and open the cube? game then click start
+1. open desktop telegram and open cubes? game then click start
 2. ```bash
      CTRL + SHIFT + I
    ```
