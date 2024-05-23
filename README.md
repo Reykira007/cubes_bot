@@ -18,7 +18,7 @@ Bot for Telegram [Cubes? game](https://t.me/cubesonthewater_bot?start=OTk3MTQzND
 ``Step init_data.txt``
 1. open telegram dekstop
 2. ```bash
-     CTRL + I
+     CTRL + SHIFT + I
    ```
 3. ```bash
      window.Telegram.WebApp.initData;
